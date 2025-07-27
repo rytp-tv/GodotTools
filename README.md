@@ -5,9 +5,9 @@
 ---
 
 ## 📑 Оглавление
-1. [AdvancedBoneAttachment3D](#advancedboneattachment3d) — продвинутый модуль прикрепления объектов к костям.
-2. [InteractiveRayCast3D](#interactiveraycast3d) — взаимодействие с поверхностями в режиме реального времени (чем-то похож на **SpringArm3D**).
-3. [AxisConstrainedBoneConstraint](#axisconstrainedboneconstraint) — ограничитель осей для **GodotIK** эффекторов.
+1. [AdvancedBoneAttachment3D](#1-advancedboneattachment3d) — продвинутый модуль прикрепления объектов к костям.
+2. [InteractiveRayCast3D](#2-interactiveraycast3d) — взаимодействие с поверхностями в режиме реального времени (чем-то похож на **SpringArm3D**).
+3. [AxisConstrainedBoneConstraint](#3-axisconstrainedboneconstraint) — ограничитель осей для **GodotIK** эффекторов.
 
 ---
 
